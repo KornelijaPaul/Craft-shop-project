@@ -1,0 +1,44 @@
+#banner{
+    background-image: url("../images/pattern.jpeg");
+    margin: 60px 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+    #banner h1{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 100px;
+        font-weight: bold;
+        color:khaki;
+        text-align: center;
+    }
+    .text h2{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 32px;
+        font-weight: bold;
+        color:white;
+    }
+    .green{
+        background-color: mediumspringgreen;
+    }
+    .lightcoral{
+        background-color: lightcoral;
+    }
+    .skyblue{
+        background-color: skyblue;
+    }
+    .images{
+        width: 200px;
+        box-shadow: 5px 7px 9px 10px gray;
+    }
+    .para p{
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .blue{
+        color: blue;
+        
+    }
+    .headings h3{
+        font-size: 1.3em;
+    }
